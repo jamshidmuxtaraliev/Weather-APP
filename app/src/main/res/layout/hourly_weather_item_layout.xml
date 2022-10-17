@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:padding="8dp">
+    <TextView
+        android:id="@+id/weekDay"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="14sp"
+        android:textColor="@color/white"
+        android:fontFamily="@font/google_sans_regular"
+        android:text="Dush"/>
+    <TextView
+        android:id="@+id/time_hourly"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:textSize="14sp"
+        android:textColor="@color/white"
+        android:fontFamily="@font/google_sans_regular"
+        android:text="13:00"/>
+    <ImageView
+        android:id="@+id/img_hourly"
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:src="@drawable/snow"
+        android:layout_marginBottom="8dp"/>
+    <TextView
+        android:id="@+id/temp_hourly"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="14sp"
+        android:textColor="@color/white"
+        android:layout_gravity="center"
+        android:fontFamily="@font/google_sans_regular"
+        android:text="16°"/>
+
+</LinearLayout>

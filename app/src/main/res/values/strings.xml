@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Weather UZ</string>
+
+    <string name="search_places">Search Places</string>
+    <string name="demo_date">9 January, 2:41 PM</string>
+    <string name="default_numbers">100</string>
+    <string name="pressure">Pressure</string>
+    <string name="max_temp">Max Temp.</string>
+    <string name="humidity">Humidity</string>
+    <string name="min_temp">Min Temp.</string>
+    <string name="wind_speed">Wind Speed</string>
+    <string name="teemperature_in_f">Temperature in F</string>
+    <string name="day">Day 17</string>
+    <string name="night">Nigt 9</string>
+    <string name="main_temp">16*</string>
+    <string name="feels_alike">Feels like 16*</string>
+    <string name="weather_type">Drizzle</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="sunset">Sunset</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
