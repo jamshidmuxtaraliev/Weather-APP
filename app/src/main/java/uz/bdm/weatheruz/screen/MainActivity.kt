@@ -51,6 +51,7 @@ import java.lang.System.console
 
 class MainActivity : AppCompatActivity() {
     lateinit var binding: ActivityMainBinding
+//    lateinit var binding: ActivityMainBinding
     lateinit var viewModel: MainViewModel
 
     companion object {
